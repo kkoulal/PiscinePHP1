@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+}
+td{
+    border: 1px solid;
+    padding: 0%;
+    font-size: 1vw;
+    
+    
+  
+    
+    -webkit-user-modify: read-write;
+
+}
+.atom{
+    font-weight: bold;
+    text-align: center;
+    font-size: 1vw; 
+}
+tr td p:first-of-type{
+    margin: 0%;
+    text-align: right;
+    font-size: 60px;
+}
+
+.etoil{
+    size: 1;
+    
+}
+
+tr td p:last-of-type{
+    margin: 0%;
+    text-align: left;
+    font-size: 90%;
+}
+table{
+    width: 100%;
+    height: 100%;
+  
+}
+ .nobrdr{
+    border: none;
+} 
+.fix
+{
+    -webkit-user-modify: read-only;
+}
+img{
+    display: block;
+    width: 30%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1vw;
+}
+
+.green{background-color: rgb(70, 168, 70)}
+.pink1{background-color:pink}
+.pink2{background-color:rgb(248, 149, 165)}
+.yellow{background-color: yellow}
+.white{background-color: #CAEDE2 }
+.purple{background-color: #C466FF}
+.green-white{background-color: greenyellow}
+.red{background-color: rgb(243, 103, 103)}
+.blue{background-color: rgb(54, 54, 243)}
+.tangerin{background-color:rgb(255, 238, 0);}
+body{background-color: pink;}
+
+tr td p:first-of-type{
+    font-size: 70%;
+    
+
+}
+
+tr td p:last-of-type{
+    font-size: 1vw;
+    
+}
